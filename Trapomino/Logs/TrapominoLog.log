@@ -1,0 +1,28 @@
+May 25, 2017 10:34:15 PM trapomino.Trapomino loadSettings
+INFO: Settings loaded
+May 25, 2017 10:34:15 PM trapomino.Trapomino playMusic
+INFO: Music menu_music.wav played
+May 25, 2017 10:34:16 PM trapomino.Trapomino mouseClicked
+INFO: X:830, Y:268
+May 25, 2017 10:34:23 PM trapomino.Trapomino mouseClicked
+INFO: X:606, Y:418
+May 25, 2017 10:34:23 PM trapomino.Trapomino playSound
+INFO: Sound button_click.wav played
+May 25, 2017 10:34:23 PM trapomino.Trapomino changeState
+INFO: State changed MAINMENU
+May 25, 2017 10:34:25 PM trapomino.Trapomino mouseClicked
+INFO: X:588, Y:275
+May 25, 2017 10:34:25 PM trapomino.Trapomino playSound
+INFO: Sound button_click.wav played
+May 25, 2017 10:34:25 PM trapomino.Trapomino changeState
+INFO: State changed OPTIONS
+May 25, 2017 10:34:28 PM trapomino.Trapomino mouseClicked
+INFO: X:596, Y:520
+May 25, 2017 10:34:28 PM trapomino.Trapomino playSound
+INFO: Sound button_click.wav played
+May 25, 2017 10:34:28 PM trapomino.Trapomino changeState
+INFO: State changed MAINMENU
+May 25, 2017 10:34:29 PM trapomino.Trapomino mouseClicked
+INFO: X:605, Y:571
+May 25, 2017 10:34:29 PM trapomino.Trapomino playSound
+INFO: Sound button_click.wav played
